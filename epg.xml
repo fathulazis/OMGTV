@@ -65555,9 +65555,6 @@ Avicii - Levels</desc>
   <channel id="2ndt20westindiesvsaustralia">
     <display-name>2nd T20 : West Indies vs Australia</display-name>
   </channel>
-  <channel id="atpkitzbuhelseybothwildtvsengelj">
-    <display-name>ATP - KITZBUHEL : Seyboth Wild T. vs Engel J.</display-name>
-  </channel>
   <channel id="atpumagpassarofvsugocarabellic">
     <display-name>ATP - UMAG : Passaro F. vs Ugo Carabelli C.</display-name>
   </channel>
@@ -65600,9 +65597,6 @@ Avicii - Levels</desc>
   <channel id="atpwashingtonmulleravsruneh">
     <display-name>ATP - WASHINGTON : Muller A. vs Rune H.</display-name>
   </channel>
-  <channel id="wtapraguenoskovalvsgasanovaa">
-    <display-name>WTA - PRAGUE : Noskova L. vs Gasanova A.</display-name>
-  </channel>
   <channel id="wtawashingtontownsendtvsmariat">
     <display-name>WTA - WASHINGTON : Townsend T. vs Maria T.</display-name>
   </channel>
@@ -65626,9 +65620,6 @@ Avicii - Levels</desc>
   </channel>
   <channel id="swedishelitserienleaguespeedwayrospiggarnahallstavikvsindians">
     <display-name>Swedish Elitserien League Speedway : Rospiggarna Hallstavik vs. Indians</display-name>
-  </channel>
-  <channel id="winlineibapro8vadimmusaevvsjosemiguelborregui">
-    <display-name>Winline IBA.PRO 8. : Vadim Musaev vs. Jose Miguel Borregui</display-name>
   </channel>
   <channel id="worldpoolchampionshipday2greenhallsinjeddahsaudiarabia">
     <display-name>World Pool Championship Day 2 - Green Halls in Jeddah, Saudi Arabia</display-name>
@@ -65680,12 +65671,6 @@ Avicii - Levels</desc>
   </channel>
   <channel id="pdcdarts4xsecondroundmatcheswintergardensblackpool">
     <display-name>PDC Darts 4x Second Round Matches - Winter Gardens, Blackpool</display-name>
-  </channel>
-  <channel id="liveracingfrommusselburghandballinrobe">
-    <display-name>Live racing from Musselburgh and Ballinrobe</display-name>
-  </channel>
-  <channel id="2025worldaquaticschampionshipsmenswaterpolo2ndsemifinal">
-    <display-name>2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal</display-name>
   </channel>
   <programme start="20250722000000 +0200" stop="20250722190000 +0200" channel="worldchasetagnew">
     <title lang="it">Inizia alle 19:00.</title>
@@ -66937,16 +66922,6 @@ Avicii - Levels</desc>
     <desc lang="it">2nd T20 : West Indies vs Australia</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20250722000000 +0200" stop="20250722153000 +0200" channel="atpkitzbuhelseybothwildtvsengelj">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - KITZBUHEL : Seyboth Wild T. vs Engel J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250722153000 +0200" stop="20250722173000 +0200" channel="atpkitzbuhelseybothwildtvsengelj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - KITZBUHEL : Seyboth Wild T. vs Engel J.</desc>
-    <category lang="it">Tennis ATP - KITZBUHEL</category>
-  </programme>
   <programme start="20250722000000 +0200" stop="20250722163000 +0200" channel="atpumagpassarofvsugocarabellic">
     <title lang="it">Inizia alle 16:30.</title>
     <desc lang="it">ATP - UMAG : Passaro F. vs Ugo Carabelli C..</desc>
@@ -67087,16 +67062,6 @@ Avicii - Levels</desc>
     <desc lang="it">ATP - WASHINGTON : Muller A. vs Rune H.</desc>
     <category lang="it">Tennis ATP - WASHINGTON</category>
   </programme>
-  <programme start="20250722000000 +0200" stop="20250722153000 +0200" channel="wtapraguenoskovalvsgasanovaa">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">WTA - PRAGUE : Noskova L. vs Gasanova A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250722153000 +0200" stop="20250722173000 +0200" channel="wtapraguenoskovalvsgasanovaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - PRAGUE : Noskova L. vs Gasanova A.</desc>
-    <category lang="it">Tennis WTA - PRAGUE</category>
-  </programme>
   <programme start="20250722000000 +0200" stop="20250722163000 +0200" channel="wtawashingtontownsendtvsmariat">
     <title lang="it">Inizia alle 16:30.</title>
     <desc lang="it">WTA - WASHINGTON : Townsend T. vs Maria T..</desc>
@@ -67186,26 +67151,6 @@ Avicii - Levels</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Swedish Elitserien League Speedway : Rospiggarna Hallstavik vs. Indians</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250722000000 +0200" stop="20250722160000 +0200" channel="winlineibapro8vadimmusaevvsjosemiguelborregui">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Winline IBA.PRO 8. : Vadim Musaev vs. Jose Miguel Borregui.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250722160000 +0200" stop="20250722180000 +0200" channel="winlineibapro8vadimmusaevvsjosemiguelborregui">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winline IBA.PRO 8. : Vadim Musaev vs. Jose Miguel Borregui</desc>
-    <category lang="it">Boxing</category>
-  </programme>
-  <programme start="20250722000000 +0200" stop="20250722160000 +0200" channel="winlineibapro8vadimmusaevvsjosemiguelborregui">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Winline IBA.PRO 8. : Vadim Musaev vs. Jose Miguel Borregui.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250722160000 +0200" stop="20250722180000 +0200" channel="winlineibapro8vadimmusaevvsjosemiguelborregui">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winline IBA.PRO 8. : Vadim Musaev vs. Jose Miguel Borregui</desc>
-    <category lang="it">Boxing</category>
   </programme>
   <programme start="20250722000000 +0200" stop="20250722180000 +0200" channel="worldpoolchampionshipday2greenhallsinjeddahsaudiarabia">
     <title lang="it">Inizia alle 18:00.</title>
@@ -67746,25 +67691,5 @@ Avicii - Levels</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">PDC Darts 4x Second Round Matches - Winter Gardens, Blackpool</desc>
     <category lang="it">Darts</category>
-  </programme>
-  <programme start="20250722000000 +0200" stop="20250722150000 +0200" channel="liveracingfrommusselburghandballinrobe">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Live racing from Musselburgh and Ballinrobe.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250722150000 +0200" stop="20250722170000 +0200" channel="liveracingfrommusselburghandballinrobe">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Musselburgh and Ballinrobe</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250722000000 +0200" stop="20250722152500 +0200" channel="2025worldaquaticschampionshipsmenswaterpolo2ndsemifinal">
-    <title lang="it">Inizia alle 15:25.</title>
-    <desc lang="it">2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250722152500 +0200" stop="20250722172500 +0200" channel="2025worldaquaticschampionshipsmenswaterpolo2ndsemifinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal</desc>
-    <category lang="it">Water polo</category>
   </programme>
 </tv>
