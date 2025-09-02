@@ -58,6 +58,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/62558
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
@@ -149,9 +152,6 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42489
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -272,9 +272,6 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18036
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -402,9 +399,6 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/12285
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -431,6 +425,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17596
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Sky",SKY DOCUMENTARIES (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -616,6 +613,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33428
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
@@ -1756,6 +1756,15 @@ https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https
 
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="Labor Day Classic at Port Royal Speedway - Labor Day Classic at Port Royal Speedway" tvg-name="21:00 Labor Day Classic at Port Royal Speedway - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FLORacing
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5001.php
+
+#EXTINF:-1 tvg-id="Boone Speedway - Boone Speedway" tvg-name="21:00 Boone Speedway - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", IMCA.TV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5002.php
+
+#EXTINF:-1 tvg-id="Thunder Mountain Speedway - Thunder Mountain Speedway" tvg-name="23:30 Thunder Mountain Speedway - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5003.php
+
 #EXTINF:-1 tvg-id="Bulgaria Second Professional League - Marek Dupnica vs. PFC Minyor Pernik" tvg-name="16:30 Bulgaria Second Professional League : Marek Dupnica vs. PFC Minyor Pernik - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 1 Bulgaria
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
 
@@ -2400,6 +2409,474 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-10
 
 #EXTINF:-1 tvg-id="World Championship Women - Turkey W vs Slovenia W" tvg-name="15:30 World Championship Women : Turkey W vs Slovenia W - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport 2 Israel
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Stockport County vs Wolves U21" tvg-name="20:00 England - EFL Trophy : Stockport County vs Wolves U21 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Wycombe Wanderers vs Colchester United" tvg-name="20:00 England - EFL Trophy : Wycombe Wanderers vs Colchester United - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Gillingham vs Fulham U21" tvg-name="20:00 England - EFL Trophy : Gillingham vs Fulham U21 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Peterborough United vs Leyton Orient" tvg-name="20:00 England - EFL Trophy : Peterborough United vs Leyton Orient - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - AFC Wimbledon vs Stevenage" tvg-name="20:00 England - EFL Trophy : AFC Wimbledon vs Stevenage - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Swindon Town vs Reading" tvg-name="20:00 England - EFL Trophy : Swindon Town vs Reading - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Shrewsbury Town vs Walsall" tvg-name="20:00 England - EFL Trophy : Shrewsbury Town vs Walsall - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Plymouth Argyle vs Cheltenham Town" tvg-name="20:00 England - EFL Trophy : Plymouth Argyle vs Cheltenham Town - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Burton Albion vs Liverpool U21" tvg-name="20:00 England - EFL Trophy : Burton Albion vs Liverpool U21 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Crewe Alexandra vs Chesterfield" tvg-name="20:00 England - EFL Trophy : Crewe Alexandra vs Chesterfield - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Fleetwood Town vs Accrington Stanley" tvg-name="20:00 England - EFL Trophy : Fleetwood Town vs Accrington Stanley - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Bolton Wanderers vs Rotherham United" tvg-name="20:00 England - EFL Trophy : Bolton Wanderers vs Rotherham United - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Lincoln City vs Notts County" tvg-name="20:00 England - EFL Trophy : Lincoln City vs Notts County - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Doncaster Rovers vs Everton U21" tvg-name="20:00 England - EFL Trophy : Doncaster Rovers vs Everton U21 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Wigan Athletic vs Salford City" tvg-name="20:00 England - EFL Trophy : Wigan Athletic vs Salford City - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Bradford City vs Grimsby Town" tvg-name="20:30 England - EFL Trophy : Bradford City vs Grimsby Town - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Luton Town vs Barnet" tvg-name="20:30 England - EFL Trophy : Luton Town vs Barnet - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Port Vale vs Leeds United U21" tvg-name="20:45 England - EFL Trophy : Port Vale vs Leeds United U21 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Huddersfield Town vs Newcastle United U21" tvg-name="20:45 England - EFL Trophy : Huddersfield Town vs Newcastle United U21 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Bromley vs Crystal Palace U21" tvg-name="20:45 England - EFL Trophy : Bromley vs Crystal Palace U21 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Marítimo U23 vs Gil Vicente U23" tvg-name="12:00 Portugal - Liga Revelação : Marítimo U23 vs Gil Vicente U23 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="Romania - Liga II - Chindia Târgovişte vs Dumbrăviţa" tvg-name="18:30 Romania - Liga II : Chindia Târgovişte vs Dumbrăviţa - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
+
+#EXTINF:-1 tvg-id="Romania - Liga II - Chindia Târgovişte vs Dumbrăviţa" tvg-name="18:30 Romania - Liga II : Chindia Târgovişte vs Dumbrăviţa - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
+
+#EXTINF:-1 tvg-id="Denmark - DBU Pokalen - Skive vs Kolding IF" tvg-name="19:00 Denmark - DBU Pokalen : Skive vs Kolding IF - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sport News Denmark
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - América Mineiro vs Avaí" tvg-name="00:30 Brazil - Serie B : América Mineiro vs Avaí - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
+
+#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - Orlando Pride vs LD Alajuelense" tvg-name="01:00 CONCACAF W Champions Cup : Orlando Pride vs LD Alajuelense - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - Orlando Pride vs LD Alajuelense" tvg-name="01:00 CONCACAF W Champions Cup : Orlando Pride vs LD Alajuelense - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Mexico
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-928.php
+
+#EXTINF:-1 tvg-id="Copa Colombia - Atlético Cali vs Junior" tvg-name="02:30 Copa Colombia : Atlético Cali vs Junior - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - Alianza vs NJ/NY Gotham FC" tvg-name="03:00 CONCACAF W Champions Cup : Alianza vs NJ/NY Gotham FC - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Mexico
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-928.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-36.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Main Event
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-38.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Austria 1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-559.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-436.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-438.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports 1 DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-240.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports 2 DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-241.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-884.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-576.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Arena Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-462.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport UNO Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-461.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport MAX Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-460.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar+
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-437.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-474.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportv3 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-80.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brasil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN Deportes
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-612.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-57.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-524.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-231.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-41.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-58.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-525.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-42.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-97.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 8 Arabic
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-98.php
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-99.php
+
+#EXTINF:-1 tvg-id="Dana White's Contender Series - Dana White's Contender Series" tvg-name="02:00 Dana White's Contender Series - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", ESPN+ USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="Dana White's Contender Series - Dana White's Contender Series" tvg-name="02:00 Dana White's Contender Series - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Sportsnet 360
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-409.php
+
+#EXTINF:-1 tvg-id="Dana White's Contender Series - Dana White's Contender Series" tvg-name="02:00 Dana White's Contender Series - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", RMC Sport 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-119.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", CW USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-300.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", CW PIX 11 USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-280.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Variety 3
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-418.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Grandstand
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-412.php
+
+#EXTINF:-1 tvg-id="Swedish Elitserien League Speedway Semi Final 1st Leg - Swedish Elitserien League Speedway Semi Final 1st Leg" tvg-name="19:00 Swedish Elitserien League Speedway Semi Final 1st Leg - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Viaplay Sports 1 UK
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-451.php
+
+#EXTINF:-1 tvg-id="Swedish Elitserien League Speedway Semi Final 1st Leg - Swedish Elitserien League Speedway Semi Final 1st Leg" tvg-name="19:00 Swedish Elitserien League Speedway Semi Final 1st Leg - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Eleven Sports 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-71.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 317
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", VOO Sport World 1 Belgium
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TVP Sport Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 4 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-494.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 2 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-634.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Diema sport 3 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-467.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Belgium vs Israel" tvg-name="14:00 EuroBasket : Belgium vs Israel - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Greece vs Bosnia & Herzegovina" tvg-name="14:00 EuroBasket : Greece vs Bosnia & Herzegovina - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 316
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Greece vs Bosnia & Herzegovina" tvg-name="14:00 EuroBasket : Greece vs Bosnia & Herzegovina - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Greece vs Bosnia & Herzegovina" tvg-name="14:00 EuroBasket : Greece vs Bosnia & Herzegovina - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 1 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Greece vs Bosnia & Herzegovina" tvg-name="14:00 EuroBasket : Greece vs Bosnia & Herzegovina - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports Start Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-637.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Greece vs Bosnia & Herzegovina" tvg-name="14:00 EuroBasket : Greece vs Bosnia & Herzegovina - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Greece vs Bosnia & Herzegovina" tvg-name="14:00 EuroBasket : Greece vs Bosnia & Herzegovina - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Diema Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-466.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Greece vs Bosnia & Herzegovina" tvg-name="14:00 EuroBasket : Greece vs Bosnia & Herzegovina - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 317
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport TV 1 Slovenia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-116.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 1 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-634.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sport Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-468.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 4 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Iceland vs Slovenia" tvg-name="17:00 EuroBasket : Iceland vs Slovenia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Cyprus vs Georgia" tvg-name="17:15 EuroBasket : Cyprus vs Georgia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 316
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Cyprus vs Georgia" tvg-name="17:15 EuroBasket : Cyprus vs Georgia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Cyprus vs Georgia" tvg-name="17:15 EuroBasket : Cyprus vs Georgia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 4 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-494.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Cyprus vs Georgia" tvg-name="17:15 EuroBasket : Cyprus vs Georgia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 2 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Cyprus vs Georgia" tvg-name="17:15 EuroBasket : Cyprus vs Georgia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports Start Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-637.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Cyprus vs Georgia" tvg-name="17:15 EuroBasket : Cyprus vs Georgia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Cyprus vs Georgia" tvg-name="17:15 EuroBasket : Cyprus vs Georgia - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", Magenta Sport 317
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", beIN Sports 1 France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-116.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", RTVS Sport Slovakia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", TRT Spor Turkey
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", TVP Sport Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", Arena 2 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", M4 Sport Hungary
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", Nova Sports 4 Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-634.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", Sportklub 2 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="EuroBasket - France vs Poland" tvg-name="20:30 EuroBasket : France vs Poland - 02/09/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751967401_poland-w-x-sweden-w.png" group-title="Basket", Sport 5 Plus Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 316
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Rai 2 IT
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-851.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Teledeporte Spain (TDP)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-529.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CT Sport Czech
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1033.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 4 Max France
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-494.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Ziggo Sport 1 NL
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 1 Premium Serbia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports Start Greece
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-637.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Diema Sport 2 Bulgaria
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-466.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sportklub 1 Croatia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN3 Brazil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-83.php
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="20:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Indiana Fever W" tvg-name="04:00 WNBA : Phoenix Mercury W vs Indiana Fever W - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Indiana Fever W" tvg-name="04:00 WNBA : Phoenix Mercury W vs Indiana Fever W - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty vs Golden State Valkyries W" tvg-name="04:00 WNBA : New York Liberty vs Golden State Valkyries W - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA Pass
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty vs Golden State Valkyries W" tvg-name="04:00 WNBA : New York Liberty vs Golden State Valkyries W - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", MY9TV USA
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-654.php
+
+#EXTINF:-1 tvg-id="Romania, Liga 1 - CS United Galati vs. Csm Targu Mures" tvg-name="17:00 Romania, Liga 1 : CS United Galati vs. Csm Targu Mures - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Digi Sport 2 Romania
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-401.php
+
+#EXTINF:-1 tvg-id="National Futsal League - Dracena vs Marreco" tvg-name="01:00 National Futsal League : Dracena vs Marreco - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Bandsports Brasil
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-275.php
+
+#EXTINF:-1 tvg-id="Premier Padel 2025 - Madrid P1 Day 1" tvg-name="09:00 Premier Padel 2025: Madrid P1 Day 1 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN SPORTS Australia 2
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-492.php
+
+#EXTINF:-1 tvg-id="Premier Padel 2025 - Madrid P1 Day 1" tvg-name="09:00 Premier Padel 2025: Madrid P1 Day 1 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 3 Malaysia
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="Premier Padel 2025 - Madrid P1 Day 1" tvg-name="09:00 Premier Padel 2025: Madrid P1 Day 1 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport 2 Israel
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Friendly Games - Argentina vs. Brazil" tvg-name="18:00 Friendly Games : Argentina vs. Brazil - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
