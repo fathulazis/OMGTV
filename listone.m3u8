@@ -657,6 +657,9 @@ https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/31712
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1  (D)
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-878.php
 
@@ -1953,6 +1956,9 @@ https://mfp-40ii.onrender.com/proxy/mpd/manifest.m3u8?api_password=Sally&d=https
 # Playlist generata da SkyStreaming
 #EXTINF:-1 tvg-id="AMA Supercross Championship Concord - AMA Supercross Championship Concord" tvg-name="15:30 AMA Supercross Championship Concord - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="Ice Cage Fighting - ICF 5" tvg-name="16:00 Ice Cage Fighting : ICF 5 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Event
+https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5000.php
 
 #EXTINF:-1 tvg-id="TNT - Supreme Extreme 2022" tvg-name="17:00 TNT: Supreme Extreme 2022 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
 https://mvajroo-tp.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
